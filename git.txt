@@ -1,5 +1,5 @@
-Git learning 
-------------------------------------------------------------
+Git 
+
 $git init
 --to initialize the git using git bash
 $git config --global user.name "Aminul Ahad"
