@@ -1,0 +1,34 @@
+$git init
+--to initialize the git using git bash
+$git config --global user.name "Aminul Ahad"
+--to set user name for git
+$git config --global user.email "mdahadaminul@gmail.com"
+-- to set global user email
+$git config --list
+-- to see the list of config file i.e: user.name , user.email
+$clear
+-- to clear cmd window of git bash
+$git status
+--to check track and untracked files
+$git add file.txt
+-- to stage / add  file.txt to git
+$git add --all
+-- to stage /add all files to git
+$git add .
+-- to stage /add all files to git
+
+[Note: From Working Copy to Staging Area use the above keywords] 
+
+$git commit 
+i
+Comment
+ESC 
+:X
+
+-- to commit , i for insert comment esc :x to exit comment window
+
+
+
+
+
+

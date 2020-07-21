@@ -1,0 +1,9 @@
+New note :
+
+$git commit 
+i
+Comment
+ESC 
+:X
+
+-- to commit , i for insert comment esc :x to exit comment window
