@@ -1,0 +1,80 @@
+Git learning 
+------------------------------------------------------------
+$git init
+--to initialize the git using git bash
+$git config --global user.name "Aminul Ahad"
+--to set user name for git
+$git config --global user.email "mdahadaminul@gmail.com"
+-- to set global user email
+$git config --list
+-- to see the list of config file i.e: user.name , user.email
+$clear
+-- to clear cmd window of git bash
+$git status
+--to check track and untracked files
+$git add file.txt
+-- to stage / add  file.txt to git
+$git add --all
+-- to stage /add all files to git
+$git add .
+-- to stage /add all files to git
+
+[Note: From Working Copy to Staging Area use the above keywords] 
+
+$git commit 
+i
+Comment
+ESC 
+:X
+
+-- to commit , i for insert comment esc :x to exit comment window
+$git commit -m "Commit message"
+-- commit to git
+$git log
+-- to see log for your command
+
+$git log --oneline
+-- to see short log 
+
+$git checkout  e952102
+-- to get back exact position with id
+
+$git checkout master
+-- to checkout at master branch
+
+$git diff
+-- to get the latest change
+
+$git show e952102
+--
+
+
+$git diff e952102 e952100
+-- to get two commit chenages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

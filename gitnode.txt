@@ -34,9 +34,21 @@ $git log
 $git log --oneline
 -- to see short log 
 
+$git checkout  e952102
+-- to get back exact position with id
+
+$git checkout master
+-- to checkout at master branch
+
+$git diff
+-- to get the latest change
+
+$git show e952102
+--
 
 
-
+$git diff e952102 e952100
+-- to get two commit chenages
 
 
 
